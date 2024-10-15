@@ -9,6 +9,3 @@
 1. nasp.tar.bz2; NASP matrix; decompress with tar -xjvf
 2. nasp_raxml.tree; maximum-likelihood phylogeny
 3. ref.tar.bz2; Reference FASTA file; decompress with tar -xjvf
-4. 
-
-
